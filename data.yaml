@@ -1,6 +1,6 @@
-train: D:\github\yolov10\yolov10test\train\images
-val: D:\github\yolov10\yolov10test\valid\images
-test: D:\github\yolov10\yolov10test\test\images
+train: /home/ldsc/chuweihuang/src/yolov10/yolov10test/train/images
+val: /home/ldsc/chuweihuang/src/yolov10/yolov10test/valid/images
+test: /home/ldsc/chuweihuang/src/yolov10/yolov10test/test/images
 
 nc: 1
 names: ['cone']
