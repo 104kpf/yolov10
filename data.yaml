@@ -1,0 +1,13 @@
+train: /home/ldsc/chuweihuang/src/yolov10/yolov10testv3/train/images
+val: /home/ldsc/chuweihuang/src/yolov10/yolov10testv3/valid/images
+test: /home/ldsc/chuweihuang/src/yolov10/yolov10testv3/test/images
+
+nc: 1
+names: ['cone']
+
+roboflow:
+  workspace: yolo-tzsgj
+  project: yolov10-tstfr
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/yolo-tzsgj/yolov10-tstfr/dataset/1
